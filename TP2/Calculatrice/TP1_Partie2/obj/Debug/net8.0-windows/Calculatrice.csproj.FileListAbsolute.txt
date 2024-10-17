@@ -1,0 +1,85 @@
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.exe
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.deps.json
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\TP1_Partie2.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\refint\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\Chamso\source\repos\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\TP1_Partie2.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\refint\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.exe
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.deps.json
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\Chamso\source\repos\TP1_Partie2 - Copy\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.exe
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.deps.json
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\TP1_Partie2.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\refint\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP1_Partie2\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.exe
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.deps.json
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\TP1_Partie2.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\refint\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\Chamso\source\repos\CAR\TP1\TP-1-Partie2\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.exe
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.deps.json
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.runtimeconfig.json
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\bin\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\TP1_Partie2.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\refint\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
