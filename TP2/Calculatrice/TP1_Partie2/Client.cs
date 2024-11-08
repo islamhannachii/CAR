@@ -5,16 +5,18 @@ namespace Calculatrice
 {
     class client
     {
+        private string clientHost=null;
         private int clientPort = -1; //port du client
         private int serveurPort = -1; //port du serveur
         private string serveurHost = null; //adresse du serveur
         UdpClient Client = null; //le client
                                  //constructeur
-        public client(int clientPort, string serveurHost, int serveurPort)
+        public client(string clientHost,int clientPort, string serveurHost, int serveurPort)
         {
             this.clientPort = clientPort;
             this.serveurHost = serveurHost;
             this.serveurPort = serveurPort;
+            this.clientHost = clientHost;
             this.Client = new UdpClient(clientPort);
         }
         public void Close() { this.Client.Close(); }
@@ -22,7 +24,7 @@ namespace Calculatrice
         {
             bool ok = true;
             //commande a envoyer
-            string req = "192.168.213.121:" + this.clientPort + ":" + command;
+            string req = this.clientHost+":" + this.clientPort + ":" + command;
             //conversion de la commande en byte
             byte[] rq = System.Text.Encoding.ASCII.GetBytes(req.ToCharArray());
             //envoi de la commande

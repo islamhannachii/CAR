@@ -11,7 +11,7 @@ namespace TP1_Partie2
         public CalculatriceForm()
         {
             InitializeComponent();
-            this.proc = new Calculatrice.client(8081, "192.168.213.65", 8080);
+            this.proc = new Calculatrice.client("127.0.0.1", 8081, "127.0.0.1", 8080);
         }
 
         private void Ecrire(object sender, EventArgs e)
