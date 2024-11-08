@@ -11,7 +11,7 @@ namespace TP1_Partie2
         public CalculatriceForm()
         {
             InitializeComponent();
-            this.proc = new Calculatrice.client(8081, "127.0.0.1", 8080);
+            this.proc = new Calculatrice.client(8081, "192.168.213.65", 8080);
         }
 
         private void Ecrire(object sender, EventArgs e)
@@ -49,56 +49,6 @@ namespace TP1_Partie2
             Resultat.Text = resultat;
 
 
-            //switch (Operateur)
-            //{
-            //    case "+":
-            //        Resultat.Text = (double.Parse(this.Operande) + double.Parse(Resultat.Text)).ToString();
-            //        break;
-            //    case "-":
-            //        Resultat.Text = (double.Parse(this.Operande) - double.Parse(Resultat.Text)).ToString();
-            //        break;
-            //    case "*":
-            //        Resultat.Text = (double.Parse(this.Operande) * double.Parse(Resultat.Text)).ToString();
-            //        break;
-            //    case "/":
-            //        if (Resultat.Text == "0")
-            //        {
-            //            MessageBox.Show("On ne peut pas diviser par 0 :");
-            //        }
-            //        else
-            //        {
-            //            Resultat.Text = (double.Parse(this.Operande) / double.Parse(Resultat.Text)).ToString();
-            //        }
-            //        break;
-            //    case "1/x":
-            //        if (this.Operande == "0")
-            //        {
-            //            MessageBox.Show("On ne peut pas diviser par 0 :");
-
-            //        }
-            //        else
-            //        {
-            //            Resultat.Text = (1 / (double.Parse(this.Operande))).ToString();
-
-            //        }
-            //        break;
-            //    case "√":
-            //        if (double.Parse(this.Operande) < 0)
-            //        {
-            //            MessageBox.Show("On ne peut pas opter la racine carre d'un numero negatif.");
-
-            //        }
-            //        else
-            //        {
-            //            Resultat.Text = (Math.Sqrt(double.Parse(this.Operande))).ToString();
-
-            //        }
-            //        break;
-            //    case "%":
-            //        Resultat.Text = ((double.Parse(this.Operande))*0.01).ToString();
-
-            //        break;
-            //}
         }
 
         private void Point(object sender, EventArgs e)

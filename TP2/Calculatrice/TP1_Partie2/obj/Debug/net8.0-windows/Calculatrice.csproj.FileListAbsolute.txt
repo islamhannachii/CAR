@@ -83,3 +83,4 @@ C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-w
 C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.pdb
 C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.genruntimeconfig.cache
 C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\ref\Calculatrice.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net8.0-windows\Calculatrice.sourcelink.json

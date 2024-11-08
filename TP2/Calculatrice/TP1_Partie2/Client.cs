@@ -22,7 +22,7 @@ namespace Calculatrice
         {
             bool ok = true;
             //commande a envoyer
-            string req = "127.0.0.1:" + this.clientPort + ":" + command;
+            string req = "192.168.213.121:" + this.clientPort + ":" + command;
             //conversion de la commande en byte
             byte[] rq = System.Text.Encoding.ASCII.GetBytes(req.ToCharArray());
             //envoi de la commande

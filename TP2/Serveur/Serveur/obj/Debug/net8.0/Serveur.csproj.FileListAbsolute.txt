@@ -26,3 +26,4 @@ C:\Users\Chamso\source\repos\CAR\TP2\Serveur\Serveur\obj\Debug\net8.0\refint\Ser
 C:\Users\Chamso\source\repos\CAR\TP2\Serveur\Serveur\obj\Debug\net8.0\Serveur.pdb
 C:\Users\Chamso\source\repos\CAR\TP2\Serveur\Serveur\obj\Debug\net8.0\Serveur.genruntimeconfig.cache
 C:\Users\Chamso\source\repos\CAR\TP2\Serveur\Serveur\obj\Debug\net8.0\ref\Serveur.dll
+C:\Users\Chamso\source\repos\CAR\TP2\Serveur\Serveur\obj\Debug\net8.0\Serveur.sourcelink.json

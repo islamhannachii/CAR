@@ -3,23 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC85E54-DFEB-49CF-A83A-15EA4864E28D}|..\\Serveur\\Serveur\\Serveur.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\serveur\\serveur\\udpserveur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\tp1_partie2\\calculatriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatriceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatriceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|c:\\users\\chamso\\source\\repos\\car\\tp2\\calculatrice\\tp1_partie2\\calculatrice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E87E4766-C0AA-45B2-8AF5-75DFD2F33CDA}|TP1_Partie2\\Calculatrice.csproj|solutionrelative:tp1_partie2\\calculatrice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,8 +37,55 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatriceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.Designer.cs",
+              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAlwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:40:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatriceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
+              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.cs",
+              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs [Design]",
+              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:13:34.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatriceForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
+              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.cs",
+              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
+              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAhwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:03:59.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Client.cs",
+              "RelativeDocumentMoniker": "TP1_Partie2\\Client.cs",
+              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Client.cs",
+              "RelativeToolTip": "TP1_Partie2\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:13:30.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -41,66 +93,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UDPServeur.cs",
-              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Serveur\\Serveur\\UDPServeur.cs",
-              "RelativeDocumentMoniker": "..\\Serveur\\Serveur\\UDPServeur.cs",
-              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Serveur\\Serveur\\UDPServeur.cs",
-              "RelativeToolTip": "..\\Serveur\\Serveur\\UDPServeur.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAASwEIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:23:41.827Z",
+              "DocumentIndex": 4,
+              "Title": "Calculatrice.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Calculatrice.csproj",
+              "RelativeDocumentMoniker": "TP1_Partie2\\Calculatrice.csproj",
+              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Calculatrice.csproj",
+              "RelativeToolTip": "TP1_Partie2\\Calculatrice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T00:43:11.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatriceForm.cs",
-              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
-              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.cs",
-              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
-              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAEwH0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:12:09.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculatriceForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs",
-              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.cs",
-              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.cs [Design]",
-              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:12:05.804Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Calculatrice",
               "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Calculatrice.csproj",
               "RelativeDocumentMoniker": "TP1_Partie2\\Calculatrice.csproj",
               "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\Calculatrice.csproj",
               "RelativeToolTip": "TP1_Partie2\\Calculatrice.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T23:11:50.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculatriceForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.Designer.cs",
-              "RelativeDocumentMoniker": "TP1_Partie2\\CalculatriceForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Chamso\\source\\repos\\CAR\\TP2\\Calculatrice\\TP1_Partie2\\CalculatriceForm.Designer.cs",
-              "RelativeToolTip": "TP1_Partie2\\CalculatriceForm.Designer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:10:43.545Z",
+              "WhenOpened": "2024-11-02T00:43:03.896Z",
               "EditorCaption": ""
             }
           ]

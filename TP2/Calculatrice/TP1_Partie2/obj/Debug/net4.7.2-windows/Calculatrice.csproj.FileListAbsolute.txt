@@ -1,0 +1,9 @@
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.CalculatriceForm.resources
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP2\Calculatrice\TP1_Partie2\obj\Debug\net4.7.2-windows\Calculatrice.sourcelink.json

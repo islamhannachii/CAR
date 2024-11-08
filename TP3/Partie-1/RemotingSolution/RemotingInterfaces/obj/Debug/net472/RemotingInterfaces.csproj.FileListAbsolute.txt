@@ -1,0 +1,10 @@
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\bin\Debug\net472\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\bin\Debug\net472\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.AssemblyInfoInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.AssemblyInfo.cs
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.sourcelink.json
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\obj\Debug\net472\RemotingInterfaces.pdb

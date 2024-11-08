@@ -1,0 +1,13 @@
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\bin\Debug\RemotingClient.exe.config
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\bin\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\Remoting.2CA0D7E6.Up2Date
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingClient\obj\Debug\RemotingClient.Client.resources
