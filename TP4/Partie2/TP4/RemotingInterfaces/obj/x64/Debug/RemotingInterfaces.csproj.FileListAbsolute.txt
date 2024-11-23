@@ -1,0 +1,8 @@
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\bin\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\bin\x64\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\obj\x64\Debug\Remoting.BE588BB8.Up2Date
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.pdb

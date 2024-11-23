@@ -4,8 +4,8 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Runtime.Remoting.Channels.Tcp;
-using System.Runtime.Remoting.Channels;
+    using System.Runtime.Remoting.Channels.Tcp;
+    using System.Runtime.Remoting.Channels;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -26,11 +26,11 @@ namespace RemotingClient
             try
             {
                 TcpChannel channel = new TcpChannel();
-                ChannelServices.RegisterChannel(channel, true); // false : en cas de pb a changer
+                ChannelServices.RegisterChannel(channel, false); // false : en cas de pb a changer
                 remoteOperation =
                 (RemotingInterfaces.IRemoteOperation)Activator.GetObject(
                 typeof(RemotingInterfaces.IRemoteOperation),
-                "tcp://localhost:1069/RemoteOperation");
+                "tcp://192.168.36.142:2500/RemoteOperation");
             }
             catch { Resultat.Text = "Erreur de connexion au serveur"; }
         }

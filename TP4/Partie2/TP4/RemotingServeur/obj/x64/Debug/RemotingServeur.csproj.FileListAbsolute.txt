@@ -1,0 +1,11 @@
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\RemotingServeur.exe.config
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\RemotingServeur.exe
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\RemotingServeur.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\bin\x64\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\obj\x64\Debug\RemotingServeur.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\obj\x64\Debug\RemotingServeur.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\obj\x64\Debug\Remoting.5608DFFC.Up2Date
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\obj\x64\Debug\RemotingServeur.exe
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingServeur\obj\x64\Debug\RemotingServeur.pdb

@@ -1,0 +1,15 @@
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\RemotingClient.exe.config
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\RemotingClient.exe
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\RemotingClient.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\bin\x64\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.Form1.resources
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\Remoting.2CA0D7E6.Up2Date
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.exe
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.pdb
+C:\Users\Chamso\source\repos\CAR\TP4\Partie2\TP4\RemotingClient\obj\x64\Debug\RemotingClient.enseigne.resources
