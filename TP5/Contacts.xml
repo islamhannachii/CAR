@@ -1,0 +1,14 @@
+﻿<contacts>
+	<contact>
+		<name> Boulkrinat Samia </name>
+		<phone type='home'> 206-555-0144 </phone>
+		<phone type='work'> 425-555-0145 </phone>
+		<address>
+			<street> 123 Cité Rabia </street>
+			<city> Bab-Ezzouar Alger </city>
+			<state> Algérie </state>
+			<postal> 16000 </postal>
+		</address>
+		<netWorth> 10 </netWorth>
+	</contact>
+</contacts>

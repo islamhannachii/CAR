@@ -1,0 +1,14 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Inventaire.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Inventaire.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\x64\Debug\Inventaire.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\x64\Debug\Inventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\x64\Debug\Inventaire.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\x64\Debug\Inventaire.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Livre.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Ecrivain.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Diffusion.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Livre.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Ecrivain.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\x64\Debug\Diffusion.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\x64\Debug\Inventaire.csproj.Up2Date

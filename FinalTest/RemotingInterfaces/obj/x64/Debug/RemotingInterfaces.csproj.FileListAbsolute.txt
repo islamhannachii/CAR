@@ -1,0 +1,6 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\bin\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\bin\x64\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingInterfaces\obj\x64\Debug\RemotingInterfaces.pdb

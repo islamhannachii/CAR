@@ -1,0 +1,9 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\x64\Debug\Ecrivain.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\x64\Debug\Ecrivain.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\x64\Debug\Ecrivain.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\x64\Debug\Ecrivain.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\x64\Debug\Diffusion.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\x64\Debug\Diffusion.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\x64\Debug\Ecrivain.csproj.Up2Date
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\x64\Debug\Ecrivain.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\x64\Debug\Ecrivain.pdb

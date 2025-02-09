@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemotingInterfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8efb8708773254e42fd8d99e14fa6613429cc249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042d8ab5e2aa6031b62fc585b46531b70edb7206")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemotingInterfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemotingInterfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

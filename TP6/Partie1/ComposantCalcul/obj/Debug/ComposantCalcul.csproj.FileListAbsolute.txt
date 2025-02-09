@@ -1,0 +1,12 @@
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\obj\Debug\ComposantCalcul.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\obj\Debug\ComposantCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\bin\Debug\ComposantCalcul.dll
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\bin\Debug\ComposantCalcul.pdb
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\obj\Debug\ComposantCalcul.dll
+C:\Users\Chamso\source\repos\CAR\TP06\ComposantCalcul\obj\Debug\ComposantCalcul.pdb
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\bin\Debug\ComposantCalcul.dll
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\bin\Debug\ComposantCalcul.pdb
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\obj\Debug\ComposantCalcul.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\obj\Debug\ComposantCalcul.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\obj\Debug\ComposantCalcul.dll
+C:\Users\Chamso\source\repos\CAR\TP06\Partie1\ComposantCalcul\obj\Debug\ComposantCalcul.pdb

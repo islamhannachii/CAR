@@ -1,0 +1,14 @@
+C:\Users\Chamso\source\repos\TP05\Partie01\bin\Debug\Partie01.exe.config
+C:\Users\Chamso\source\repos\TP05\Partie01\bin\Debug\Partie01.exe
+C:\Users\Chamso\source\repos\TP05\Partie01\bin\Debug\Partie01.pdb
+C:\Users\Chamso\source\repos\TP05\Partie01\obj\Debug\Partie01.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\TP05\Partie01\obj\Debug\Partie01.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\TP05\Partie01\obj\Debug\Partie01.exe
+C:\Users\Chamso\source\repos\TP05\Partie01\obj\Debug\Partie01.pdb
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\bin\Debug\Partie01.exe.config
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\bin\Debug\Partie01.exe
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\bin\Debug\Partie01.pdb
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\obj\Debug\Partie01.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\obj\Debug\Partie01.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\obj\Debug\Partie01.exe
+C:\Users\Chamso\source\repos\CAR\TP05\Partie01\obj\Debug\Partie01.pdb

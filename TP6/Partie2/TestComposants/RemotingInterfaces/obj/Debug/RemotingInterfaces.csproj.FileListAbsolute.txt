@@ -1,0 +1,12 @@
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\bin\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\Desktop\Tp6P2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\bin\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.dll
+C:\Users\Chamso\source\repos\CAR\TP06\Partie2\TestComposants\RemotingInterfaces\obj\Debug\RemotingInterfaces.pdb

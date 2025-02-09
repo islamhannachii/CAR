@@ -1,0 +1,6 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\bin\Debug\Diffusion.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\bin\Debug\Diffusion.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\obj\Debug\Diffusion.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\obj\Debug\Diffusion.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\obj\Debug\Diffusion.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Diffusion\obj\Debug\Diffusion.pdb

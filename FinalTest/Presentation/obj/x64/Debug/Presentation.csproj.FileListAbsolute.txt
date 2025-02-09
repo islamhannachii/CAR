@@ -1,0 +1,9 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\bin\x64\Debug\Presentation.exe.config
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\bin\x64\Debug\Presentation.exe
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\bin\x64\Debug\Presentation.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.Properties.Resources.resources
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.exe
+C:\Users\Chamso\source\repos\CAR\FinalTest\Presentation\obj\x64\Debug\Presentation.pdb

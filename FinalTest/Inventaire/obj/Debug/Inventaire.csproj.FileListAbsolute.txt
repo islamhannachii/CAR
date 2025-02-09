@@ -1,0 +1,6 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\Debug\Inventaire.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\bin\Debug\Inventaire.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\Debug\Inventaire.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\Debug\Inventaire.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\Debug\Inventaire.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Inventaire\obj\Debug\Inventaire.pdb

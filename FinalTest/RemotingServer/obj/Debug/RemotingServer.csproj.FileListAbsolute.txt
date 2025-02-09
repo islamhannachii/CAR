@@ -1,0 +1,2 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache

@@ -3,3 +3,6 @@ build_property.RootNamespace = RemotingInterfaces
 build_property.ProjectDir = C:\Users\Chamso\source\repos\CAR\TP3\Partie-1\RemotingSolution\RemotingInterfaces\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

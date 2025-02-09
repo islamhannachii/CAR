@@ -1,0 +1,6 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\bin\Debug\Livre.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\bin\Debug\Livre.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\obj\Debug\Livre.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\obj\Debug\Livre.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\obj\Debug\Livre.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Livre\obj\Debug\Livre.pdb

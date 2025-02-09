@@ -1,0 +1,10 @@
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\Debug\Ecrivain.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\Debug\Ecrivain.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\Debug\Diffusion.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\bin\Debug\Diffusion.pdb
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\Debug\Ecrivain.csproj.AssemblyReference.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\Debug\Ecrivain.csproj.CoreCompileInputs.cache
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\Debug\Ecrivain.csproj.Up2Date
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\Debug\Ecrivain.dll
+C:\Users\Chamso\source\repos\CAR\FinalTest\Ecrivain\obj\Debug\Ecrivain.pdb
